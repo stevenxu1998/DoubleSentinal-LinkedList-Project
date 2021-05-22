@@ -1,8 +1,8 @@
 # DoubleSentinal-LinkedList-Project
 ## Description
 A C++ program that allows users to store data inside of a double sentinel linked list
-Other features include:
 
+Other features include:
 - Adding to the list
 - Erasing from the list
 - Copying data to a new list 
