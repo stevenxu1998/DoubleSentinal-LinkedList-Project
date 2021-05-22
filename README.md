@@ -16,7 +16,7 @@ Other features include:
 - Added additional test case files (i.e. edge cases) in the form of .txt files 
 
 ## Testing
-- Testing was done in an linux environment 
+- Testing was done in an linux environment and a secure shell protocol
 - .in.txt files were the test case files used to test against my implementations
 - The program would generate .out.txt as an output file for all the test case files
   - If a test cases passed then it would output the test case number followed by an 'okay' string    
